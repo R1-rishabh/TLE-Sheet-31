@@ -1,1 +1,1 @@
-{"name":"Local: 3","url":"/home/rishabh/codeforces/800TLE/3.cpp","tests":[{"id":1726665788366,"input":"5\n3\n...\n7\n##....#\n7\n..#.#..\n4\n####\n10\n#...#..#.#\n","output":"2\n2\n5\n0\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rishabh/codeforces/800TLE/3.cpp","group":"local","local":true}
+{"name":"Local: 3","url":"/home/rishabh/codeforces/800TLE/3.cpp","tests":[],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rishabh/codeforces/800TLE/3.cpp","group":"local","local":true}
